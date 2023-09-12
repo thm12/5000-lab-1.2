@@ -1,0 +1,72 @@
+---
+title: "simple_quarto_website"
+toc: true
+---
+
+# Header 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.[^1]. 
+
+[^1]:footnote
+
+## Header 2
+
+- text 1
+- text 2
+- text 3
+
+## Columns
+
+:::: {.columns}
+::: {.column width="50%"}
+### Column 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+:::
+
+::: {.column width="50%"}
+### Column 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+:::
+::::
+
+## Markdown table
+
+
+| column 1 | column 2 |
+| ----------- | ----------- |
+| 12 | 13 |
+| 14 | 15 |
+
+
+## Latex equations
+
+$e^{i\pi} + 1 = 0$
+$$\int_{a}^{b} f(x) \, dx $$
+
+## Quote
+
+>"Lorem ipsum dolor sit amet"
+
+```{mermaid}
+%%| code-fold: false
+flowchart LR
+  A[Lorem] --> B(ipsum)
+  B --> C{dolor}
+  C --> D[sit]
+  C --> E[amet]
+```
+[@dhar2013data]
+
+## photos and video
+
+![](https://img.freepik.com/free-photo/beautiful-retro-nature-with-flowers_23-2149681494.jpg?w=1800&t=st=1694487426~exp=1694488026~hmac=fd31631e477b921ee448b8a5ae9c55ac8dc82a20c08ebeb0243aa76eca449369)
+
+![](https://img.freepik.com/free-photo/beautiful-retro-nature-with-tall-trees_23-2149681460.jpg?t=st=1694487426~exp=1694488026~hmac=13e059c747c885f9f9f387521a33108cea84d9e4668d3a2064bfa027e7446793)
+
+{{< video https://www.youtube.com/watch?v=X3paOmcrTjQ width=400 height=“250” >}}
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

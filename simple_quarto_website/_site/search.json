@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx=[1, 2, 3, 4]\ny=[1, 2, 3, 4]\n\n\nplt.plot(x,y,'o') \nplt.show()"
+  },
+  {
+    "objectID": "about.html#header-2",
+    "href": "about.html#header-2",
+    "title": "About",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx=[1, 2, 3, 4]\ny=[1, 2, 3, 4]\n\n\nplt.plot(x,y,'o') \nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.1.\n\n\n\ntext 1\ntext 2\ntext 3\n\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit\n\n\n\n\n\n\n\n\n\ncolumn 1\ncolumn 2\n\n\n\n\n12\n13\n\n\n14\n15\n\n\n\n\n\n\n\\(e^{i\\pi} + 1 = 0\\) \\[\\int_{a}^{b} f(x) \\, dx \\]\n\n\n\n\n“Lorem ipsum dolor sit amet”\n\n\n\n\n\nflowchart LR\n  A[Lorem] --&gt; B(ipsum)\n  B --&gt; C{dolor}\n  C --&gt; D[sit]\n  C --&gt; E[amet]\n\n\n\n\n\n(Dhar 2013)\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#header-2",
+    "href": "index.html#header-2",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "text 1\ntext 2\ntext 3"
+  },
+  {
+    "objectID": "index.html#columns",
+    "href": "index.html#columns",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "column 1\ncolumn 2\n\n\n\n\n12\n13\n\n\n14\n15"
+  },
+  {
+    "objectID": "index.html#latex-equations",
+    "href": "index.html#latex-equations",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "\\(e^{i\\pi} + 1 = 0\\) \\[\\int_{a}^{b} f(x) \\, dx \\]"
+  },
+  {
+    "objectID": "index.html#quote",
+    "href": "index.html#quote",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "“Lorem ipsum dolor sit amet”\n\n\n\n\n\nflowchart LR\n  A[Lorem] --&gt; B(ipsum)\n  B --&gt; C{dolor}\n  C --&gt; D[sit]\n  C --&gt; E[amet]\n\n\n\n\n\n(Dhar 2013)"
+  },
+  {
+    "objectID": "index.html#photos-and-video",
+    "href": "index.html#photos-and-video",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nfootnote↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Presentation",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nnote 1\nnote 2"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Presentation",
+    "section": "Slide 2",
+    "text": "Slide 2\n\ntest 1 (Dhar 2013)"
+  },
+  {
+    "objectID": "slides/slides.html#image-1",
+    "href": "slides/slides.html#image-1",
+    "title": "Presentation",
+    "section": "image 1",
+    "text": "image 1"
+  },
+  {
+    "objectID": "slides/slides.html#image-2",
+    "href": "slides/slides.html#image-2",
+    "title": "Presentation",
+    "section": "image 2",
+    "text": "image 2"
+  },
+  {
+    "objectID": "slides/slides.html#section",
+    "href": "slides/slides.html#section",
+    "title": "Presentation",
+    "section": "",
+    "text": "Dhar, Vasant. 2013. “Data Science and Prediction.” Communications of the ACM 56 (12): 64–73."
+  }
+]
